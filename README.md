@@ -4,5 +4,5 @@ This is the Coursera course with integration of IBM, where RAG(Retrival Augmente
 Cheat Sheet: Foundations of Generative AI and LangChain:
 https://cf-courses-data.static.labs.skills.network/igXxD8CBl4xNaHXoyGjE-Q/Prompt%20engineering%20LangChain%20prompt%20templates-v1.md.html
 
-Skill Lab URL:
-https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-2e57cf375463023347cd8ffe95cb39c9b1b43312
+RAG(Retrieval-Agmented-Generation):
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0ltR2tkaE1TZDNpVkZlS2hoSmVkWHcvUmVhZGluZyUyMC0lMjBXaGF0JTIwaXMlMjBSQUctdjEubWQ_dD0xNzQ2MTI4ODUzIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhdGxhc19maWxlX2lkIjozMDM5MTEsImFkbWluIjpmYWxzZSwiaWF0IjoxNzU3Njk3NTExfQ.bMtyovXKhOxlCwRqSGxcW_L_MN4llY1yHbBOGyKbNGY
