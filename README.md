@@ -1,2 +1,8 @@
 # RAG-AgenticAI
 This is the Coursera course with integration of IBM, where RAG(Retrival Augmented Generation) and Agentic AI and then Multimodel AI Agent is covered using Langchain and Lachgraph to prepare the full AI ecosystem
+
+## Course 1 -> Reading: Comprehensive Guide to Generative AI
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL1QtZFFBWDRnSGZCUFhudmxXYXZseHcvQSUyMFF1aWNrJTIwR3VpZGUlMjB0byUyMEdlbkFJLXYxLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhdGxhc19maWxlX2lkIjoyODg0NDYsImFkbWluIjpmYWxzZSwiaWF0IjoxNzQ2MTI4Mjk2fQ.aKGwxkCpxRgtTPgJMuOd8Y5BQd2Pxzslp8RfLDdyI58
+
+
+ 
