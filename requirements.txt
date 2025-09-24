@@ -7,3 +7,4 @@ langchain_community
 wget==3.2
 langchain-groq
 sentence-transformers
+gradio
