@@ -123,7 +123,7 @@ def main():
         print("Loading food database...")
 
         #Load food data from file
-        global food_items
+        global fooasdd_items
         food_items = load_food_data('RecommendationSystem/FoodDataSet.json')
         print(f"Loaded {len(food_items)} food items.")
 

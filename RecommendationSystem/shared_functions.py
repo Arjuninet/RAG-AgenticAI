@@ -146,4 +146,3 @@ def perform_similarity_search(collection, query: str, n_results: int = 5) -> Lis
     except Exception as e:
         print(f"Error in similarity search: {e}")
         return []   
-    
